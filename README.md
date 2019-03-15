@@ -1,3 +1,7 @@
+#The following is a discription on the homework challenge. It is directly taken from the homework intro. 
+
+
+
 Unit 3 | Assignment - Py Me Up, Charlie
 
 
